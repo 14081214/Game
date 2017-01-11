@@ -1,0 +1,220 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,grass_top_png,leaves_spruce_opaque_png,mycelium_top_png,jieshou_png,wancheng_png,renwumianbanbeijing_png,wancheng_gray_png,jieshou_gray_png,wenhao_gray_png,wenhao_yellow_png,tanhao_gray_png,tanhao_yellow_png,duihuakuang_png,UserPanelBackGround_png,BlackBackground_png,NoEquipment_png,userPanelButton_png,grass_01_jpg,jz1_png,jz2_png,jz3_png,jz4_png,mush_jpg,tq1_png,tq2_png,tq3_png,tq4_png,wall_01_jpg,tq-1_png,tq-2_png,tq-3_png,tq-4_png,mush_bad_jpg,helmet_jpg,armor_jpg,axe_jpg,bracelet_jpg,Girl_png,BlueShoes01_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "grass_top_png",
+			"type": "image",
+			"url": "assets/grass_top.png"
+		},
+		{
+			"name": "leaves_spruce_opaque_png",
+			"type": "image",
+			"url": "assets/leaves_spruce_opaque.png"
+		},
+		{
+			"name": "mycelium_top_png",
+			"type": "image",
+			"url": "assets/mycelium_top.png"
+		},
+		{
+			"name": "jieshou_png",
+			"type": "image",
+			"url": "assets/jieshou.png"
+		},
+		{
+			"name": "wancheng_png",
+			"type": "image",
+			"url": "assets/wancheng.png"
+		},
+		{
+			"name": "renwumianbanbeijing_png",
+			"type": "image",
+			"url": "assets/renwumianbanbeijing.png"
+		},
+		{
+			"name": "wancheng_gray_png",
+			"type": "image",
+			"url": "assets/wancheng_gray.png"
+		},
+		{
+			"name": "jieshou_gray_png",
+			"type": "image",
+			"url": "assets/jieshou_gray.png"
+		},
+		{
+			"name": "wenhao_gray_png",
+			"type": "image",
+			"url": "assets/wenhao_gray.png"
+		},
+		{
+			"name": "wenhao_yellow_png",
+			"type": "image",
+			"url": "assets/wenhao_yellow.png"
+		},
+		{
+			"name": "tanhao_gray_png",
+			"type": "image",
+			"url": "assets/tanhao_gray.png"
+		},
+		{
+			"name": "tanhao_yellow_png",
+			"type": "image",
+			"url": "assets/tanhao_yellow.png"
+		},
+		{
+			"name": "duihuakuang_png",
+			"type": "image",
+			"url": "assets/duihuakuang.png"
+		},
+		{
+			"name": "UserPanelBackGround_png",
+			"type": "image",
+			"url": "assets/UserPanelBackGround.png"
+		},
+		{
+			"name": "BlackBackground_png",
+			"type": "image",
+			"url": "assets/BlackBackground.png"
+		},
+		{
+			"name": "NoEquipment_png",
+			"type": "image",
+			"url": "assets/NoEquipment.png"
+		},
+		{
+			"name": "userPanelButton_png",
+			"type": "image",
+			"url": "assets/userPanelButton.png"
+		},
+		{
+			"name": "grass_01_jpg",
+			"type": "image",
+			"url": "assets/grass_01.jpg"
+		},
+		{
+			"name": "jz1_png",
+			"type": "image",
+			"url": "assets/jz1.png"
+		},
+		{
+			"name": "jz2_png",
+			"type": "image",
+			"url": "assets/jz2.png"
+		},
+		{
+			"name": "jz3_png",
+			"type": "image",
+			"url": "assets/jz3.png"
+		},
+		{
+			"name": "jz4_png",
+			"type": "image",
+			"url": "assets/jz4.png"
+		},
+		{
+			"name": "mush_jpg",
+			"type": "image",
+			"url": "assets/mush.jpg"
+		},
+		{
+			"name": "tq1_png",
+			"type": "image",
+			"url": "assets/tq1.png"
+		},
+		{
+			"name": "tq2_png",
+			"type": "image",
+			"url": "assets/tq2.png"
+		},
+		{
+			"name": "tq3_png",
+			"type": "image",
+			"url": "assets/tq3.png"
+		},
+		{
+			"name": "tq4_png",
+			"type": "image",
+			"url": "assets/tq4.png"
+		},
+		{
+			"name": "wall_01_jpg",
+			"type": "image",
+			"url": "assets/wall_01.jpg"
+		},
+		{
+			"name": "tq-1_png",
+			"type": "image",
+			"url": "assets/tq-1.png"
+		},
+		{
+			"name": "tq-2_png",
+			"type": "image",
+			"url": "assets/tq-2.png"
+		},
+		{
+			"name": "tq-3_png",
+			"type": "image",
+			"url": "assets/tq-3.png"
+		},
+		{
+			"name": "tq-4_png",
+			"type": "image",
+			"url": "assets/tq-4.png"
+		},
+		{
+			"name": "mush_bad_jpg",
+			"type": "image",
+			"url": "assets/mush_bad.jpg"
+		},
+		{
+			"name": "helmet_jpg",
+			"type": "image",
+			"url": "assets/helmet.jpg"
+		},
+		{
+			"name": "armor_jpg",
+			"type": "image",
+			"url": "assets/armor.jpg"
+		},
+		{
+			"name": "axe_jpg",
+			"type": "image",
+			"url": "assets/axe.jpg"
+		},
+		{
+			"name": "bracelet_jpg",
+			"type": "image",
+			"url": "assets/bracelet.jpg"
+		},
+		{
+			"name": "Girl_png",
+			"type": "image",
+			"url": "assets/Girl.png"
+		},
+		{
+			"name": "BlueShoes01_jpg",
+			"type": "image",
+			"url": "assets/BlueShoes01.jpg"
+		}
+	]
+}
